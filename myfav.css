@@ -1,0 +1,18 @@
+.director-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #767070;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-image: url(https://img.freepik.com/free-vector/cinema-film-strip-movie-background-vector-illustration_1017-38202.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1697932800&semt=ais);
+    background-size: contain;
+}
+p {
+    font-size: 25px;
+}
+h3 {
+    font-size: 35px;
+}
